@@ -1,6 +1,6 @@
 # Assignment 1 - Image search
  
-Link to github of this assignment: https://github.com/sarah-hvid/Vis_assignment1
+Link to GitHub of this assignment: https://github.com/sarah-hvid/Vis_assignment1
 
 ## Assignment description
 In this assignment images that are alike should be found using their colour histograms. If a single image is specified, the 3 most similar images should be found. A plot and CSV file should be saved of the results. If a directory is specified, the three most similar images should be found for each image in the directory. A CSV file should be saved of the result. \
